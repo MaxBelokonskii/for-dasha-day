@@ -1,0 +1,4 @@
+.playwright-mcp/
+.DS_Store
+# оригиналы фото: страница использует сжатые копии из assets/img
+assets/photos/
